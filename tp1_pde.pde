@@ -30,7 +30,7 @@ triangle(10, 40, 110, 40, 60, -10);
 fill(61, 35, 6);
 stroke(61, 35, 6);
 rect(35, 250, 50, 125);
-//esferas verdes
+
 fill(54, 219, 33);
 stroke(54, 219, 33);
 ellipse(10, 260, 15, 15);
@@ -41,7 +41,7 @@ ellipse(75, 30, 15, 15);
 ellipse(75, 150, 15, 15);
 ellipse(45,210, 15, 15);
 ellipse(45, 90, 15, 15);
-//esferas rojas
+
 fill(255, 0, 0);
 stroke(255, 0, 0);
 ellipse(10, 230, 15, 15);
